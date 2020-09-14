@@ -37,7 +37,15 @@ If some parts of the theme look off (like the user panel on the bottom right), h
 }
 
 .autocompleteInner-zh20B_ {
-  padding-bottom: 8px;
   background-color: var(--background-tertiary);
+}
+
+.theme-dark .headerNormal-T_seeN {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .body-3iLsc4,
+.theme-dark .footer-1fjuF6 {
+    background-color: var(--background-tertiary);
 }
 ```
