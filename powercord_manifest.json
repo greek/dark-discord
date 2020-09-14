@@ -1,0 +1,9 @@
+{
+   "name": "Dark Discord",
+   "description": "An actual dark mode for discord.",
+   "version": "1.0.0",
+   "author": "andreas#0001",
+   "theme": "DarkDiscord.theme.css",
+   "splashTheme": "splash.css",
+   "license": "Unlicensed"
+}
