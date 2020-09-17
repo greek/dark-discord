@@ -78,7 +78,7 @@
 }
 
 .panels-j1Uci_ {
-   background-color: var(--background-primary);
+   background-color: var(--background-tertiary);
 }
 
 .theme-dark .modal-yWgWj- {
@@ -1653,8 +1653,4 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 {
    border: 2px solid var(--background-secondary);
    background-color: var(--background-secondary);
-}
-
-.peopleColumn-29fq28 {
-   background-color: var(--background-primary);
 }
